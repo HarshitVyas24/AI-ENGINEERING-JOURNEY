@@ -44,9 +44,23 @@ SELECT DISTINCT Department
 FROM employee
 GROUP BY Department;
 
-SELECT name
+SELECT FirstName
 FROM employee
-WHERE 
+WHERE FirstName LIKE 'A%';
+
+
+SELECT FirstName, salary
+FROM employee
+WHERE salary BETWEEN 4000 AND 7000;
+
+SELECT avg(salary) AS avg_salary
+FROM employee;
+
+SELECT Department , COUNT(*) AS employee_count
+FROM employee
+GROUP BY Department
+HAVING COUNT(*) > 2;
+
 
 
 
