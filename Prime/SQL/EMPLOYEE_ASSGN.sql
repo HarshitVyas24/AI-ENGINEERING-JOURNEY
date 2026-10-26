@@ -1,6 +1,7 @@
 CREATE DATABASE office;
 
 CREATE TABLE employee(
+    
 EmpID INT PRIMARY KEY,
 FirstName VARCHAR(50) ,
 LastName VARCHAR(50) ,
