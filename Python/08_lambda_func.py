@@ -7,4 +7,3 @@ calc_avg = lambda a,b,c : (a+b+c)/3
 
 print(sum(4,5))
 print(calc_avg(1,2,3))
-cnjdnc
