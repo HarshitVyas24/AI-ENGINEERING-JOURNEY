@@ -29,5 +29,5 @@ print(sum(1)) #Arguments
 
 print(avg(1,2,3))
 
-print(factorial(5))fvfv
+print(factorial(5))
 print(factorial2(5))
