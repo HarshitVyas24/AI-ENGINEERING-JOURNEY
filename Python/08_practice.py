@@ -92,7 +92,7 @@ my_choice= int(input("My choice: "))
 
 user_guess = int(input("User Guess: "))
 
-guessTheNumber(my_choice, user_guess )dfdfd
+guessTheNumber(my_choice, user_guess )
 
 
 
