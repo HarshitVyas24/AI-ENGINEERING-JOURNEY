@@ -101,7 +101,7 @@ guessTheNumber(my_choice, user_guess )
 #         print(i) # this prints the value of i 
 
 
-# while(True):
+# while(True):          #Begining of the while loop
 
 #     num = input("num: ")
 
