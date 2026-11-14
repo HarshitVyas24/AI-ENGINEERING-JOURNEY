@@ -98,7 +98,7 @@ guessTheNumber(my_choice, user_guess )
 
 # for i in range(1,100):
 #     if (i%3==0 and i%5==0):
-#         print(i)
+#         print(i) # this prints the value of i 
 
 
 # while(True):
