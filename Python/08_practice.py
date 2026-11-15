@@ -70,7 +70,7 @@ def isPrime(n):
 
     for i in range(2, n):
         if(n%i == 0):
-            isPrime = False
+            isPrime = False   #if not prime number it changes it back to False 
     return isPrime
 
 def guessTheNumber(my_guess ,  user_guess):
