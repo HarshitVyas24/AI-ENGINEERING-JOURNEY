@@ -73,7 +73,7 @@ def isPrime(n):
             isPrime = False   #if not prime number it changes it back to False 
     return isPrime
 
-def guessTheNumber(my_guess ,  user_guess):
+def guessTheNumber(my_guess ,  user_guess): #The function that guesses the number inputer by two users and check if the guess matches
 
     if(user_guess > my_guess):
         print("Too High")
