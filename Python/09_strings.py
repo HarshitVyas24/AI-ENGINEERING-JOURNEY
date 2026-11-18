@@ -1,4 +1,4 @@
 
 age = int(input("Age: "))
 
-print(f"My age is {age}") got
+print(f"My age is {age}") 
