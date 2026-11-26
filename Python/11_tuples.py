@@ -10,4 +10,3 @@ t = (1,2,2,3,2,4)
 
 print(t.index(2))  #index of first occurance
 print(t.count(2))  #tell number of occurances of a value
-sdsdd
